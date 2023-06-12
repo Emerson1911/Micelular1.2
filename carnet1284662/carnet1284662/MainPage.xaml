@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="carnet1284662.MainPage">
+
+    <!--Aprendemos a crear contenedores y como usar stacklayout -->
+
+    <StackLayout>
+        <BoxView Color="Red" HorizontalOptions="Center"/>
+        <BoxView Color="Green" HorizontalOptions="Center"/>
+        <BoxView Color="Blue" HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>
